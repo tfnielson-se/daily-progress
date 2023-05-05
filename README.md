@@ -4,9 +4,9 @@ This repository is where I journal a part of my every day journey through Softwa
 
 ## Languages on Focus:
 
-Python
-Elixir
-JavaScript
+Python /
+Elixir /
+JavaScript /
 Ruby
 
 ### Thanks for stopping by, feel free to reach out!
