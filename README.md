@@ -1,6 +1,9 @@
 # Welcome to My Daily Progress 💻
 
-This repository is where I journal a part of my every day journey through Software Engineering.
+This repository contains solutions for Hacker Rank and Leetcode problems.
+I use this a journal for me to reflect on my progress and development as a Software Engineer.
+
+'Never stop learning'
 
 ## Languages on Focus:
 
