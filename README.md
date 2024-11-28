@@ -9,15 +9,15 @@ This repository contains solutions for Hacker Rank and Leetcode problems.
 - Python /
 - Elixir /
 - JavaScript /
-- Ruby
+- Ruby /
+- C# /
+- C++
 
 ### Thanks for stopping by, feel free to reach out!
 
 --
 Thomas F. Nielson,
 
-Software Engineer, Full Stack
-
-Python | Ruby on Rails | JavaScript | React.js | Next.js | Elixir | Phoenix | LiveView
+Software Engineer
 
 email: tfnielson.se@gmail.com
